@@ -83,7 +83,7 @@ These KPIs give a quick snapshot of overall business health.
 
 ---
 
-#### 🗓 Outlet Establishment Trend (Area Line Chart)
+#### Outlet Establishment Trend (Area Line Chart)
 
 * Shows total sales contribution by outlet establishment year
 * Highlights growth phases and peak performance periods
@@ -99,7 +99,7 @@ These KPIs give a quick snapshot of overall business health.
 
 ---
 
-#### 🛍 Item Type Performance (Horizontal Bar Chart)
+#### Item Type Performance (Horizontal Bar Chart)
 
 * Compares sales across product categories such as:
 
@@ -160,5 +160,4 @@ Across:
 
 ## 6. Screenshots / Demo
 
-Show what the dashboard looks like. - ![Alt text](https://github.com/unsainted26/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png)
 Example: ![Dashboard Preview](https://github.com/unsainted26/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png)
