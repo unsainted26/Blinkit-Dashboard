@@ -160,5 +160,5 @@ Across:
 
 ## 6. Screenshots / Demo
 
-📸 *Blinkit Analytics Dashboard Preview*
-(Attach the provided dashboard image here in your GitHub README)
+Show what the dashboard looks like. - ![Alt text](https://github.com/unsainted26/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png)
+Example: ![Dashboard Preview](https://github.com/unsainted26/Blinkit-Dashboard/blob/main/Blinkit%20Dashboard.png)
